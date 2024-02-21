@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "prabhu2687_need_a_impressive_wallpaper_of_iOS_Developer_for_l_95e07a96-6818-47ce-b117-1a4ec16af9ea_0.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
